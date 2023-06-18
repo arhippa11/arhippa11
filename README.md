@@ -2,6 +2,7 @@
 
 <p align="center">- 📫 How to reach me <b>arhippa11@gmail.com<b></p>
 <p align="center">- 🌱 I’m currently learning <b>Pycord<b></p>
+<p align="center">- I am a developer/sysadmin! <b></p>
 
 
 <h3 align="center">Connect with me:</h3>
