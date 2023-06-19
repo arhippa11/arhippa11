@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <p align="center">- 📫 How to reach me <b>arhippa11@gmail.com<b></p>
-<p align="center">- 🌱 I’m currently learning <b>Pycord<b></p>
+<p align="center">- 🌱 I’m currently learning <b>Grafana/Prometheus<b></p>
 <p align="center">- I am a developer/sysadmin! <b></p>
 
 
